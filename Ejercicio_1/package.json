@@ -1,0 +1,24 @@
+{
+  "name": "operadores_apropiacion_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre1985dominiocom/operadores_apropiacion_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andre1985dominiocom/operadores_apropiacion_js/issues"
+  },
+  "homepage": "https://github.com/andre1985dominiocom/operadores_apropiacion_js#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
