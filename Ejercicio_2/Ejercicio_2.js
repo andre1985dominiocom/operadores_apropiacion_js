@@ -1,4 +1,7 @@
-// Definición de las notas obtenidas en la asignatura
+import calificacion from 'prompt-sync';
+
+// Definición de las notas obtenidas en la asignatura y se llama el método importado
+const notas = calificacion()
 const nota1 = 4.5;
 const nota2 = 3.5;
 const nota3 = 3.8;
